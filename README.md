@@ -1,4 +1,4 @@
-<img src="./images/react.svg" width="150" alt="react图标">
+< img src="./react.svg" width="100px">
 
 ## Hi there 👋
 
