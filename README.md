@@ -1,4 +1,4 @@
-![react图标](./react.svg)
+![图片描述](./react.svg){:width="150px"}
 
 ## Hi there 👋
 
