@@ -1,4 +1,4 @@
-< img src="https://githubusercontent.com/XU0703-ice/XU0703-ice/e3c5ad81f5239ec3d74e0b1cd76b324c1076858b/react.svg" width="100px">
+<img src="./react.svg" width="120" alt="react图标">
 
 ## Hi there 👋
 
