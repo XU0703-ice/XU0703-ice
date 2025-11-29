@@ -1,4 +1,4 @@
-< img src="./react.svg" width="100px">
+< img src=(./react.svg) width="100px">
 
 ## Hi there 👋
 
